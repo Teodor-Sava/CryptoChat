@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
-  "author": "Joshua Slate",
+  "author": "Teodor & Pawel",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.13.1",
