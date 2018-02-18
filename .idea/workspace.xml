@@ -4,10 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/EncryptedChat/client/src/reducers/communication_reducer.js" line="12" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="022678f9-164d-479e-b09d-c6f01b608707" name="Default" comment="first commit">
+    <list default="true" id="022678f9-164d-479e-b09d-c6f01b608707" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/EncryptedChat/client/src/actions/index.js" afterPath="$PROJECT_DIR$/EncryptedChat/client/src/actions/index.js" />
-      <change beforePath="$PROJECT_DIR$/EncryptedChat/client/src/actions/messaging.js" afterPath="$PROJECT_DIR$/EncryptedChat/client/src/actions/messaging.js" />
       <change beforePath="$PROJECT_DIR$/EncryptedChat/server/index.js" afterPath="$PROJECT_DIR$/EncryptedChat/server/index.js" />
       <change beforePath="$PROJECT_DIR$/EncryptedChat/server/package.json" afterPath="$PROJECT_DIR$/EncryptedChat/server/package.json" />
     </list>
@@ -74,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/EncryptedChat/server/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="44" column="48" lean-forward="false" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+              <caret line="44" column="47" lean-forward="false" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -295,12 +293,20 @@
       <updated>1518815859902</updated>
       <workItem from="1518815861198" duration="20119000" />
       <workItem from="1518959353504" duration="1041000" />
-      <workItem from="1518975363919" duration="2094000" />
+      <workItem from="1518975363919" duration="2347000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1518989443940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1518989443940</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23254000" />
+    <option name="totallyTimeSpent" value="23507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -331,6 +337,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -447,6 +457,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -567,6 +578,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -639,6 +651,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -732,7 +745,7 @@
     <entry file="file://$PROJECT_DIR$/EncryptedChat/server/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="44" column="48" lean-forward="false" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+          <caret line="44" column="47" lean-forward="false" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
