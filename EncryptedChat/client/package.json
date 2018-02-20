@@ -4,7 +4,8 @@
   "description": "Client-side",
   "main": "index.js",
   "scripts": {
-    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+    "webpack": "webpack"
   },
   "author": "Teodor & Pawel",
   "license": "MIT",

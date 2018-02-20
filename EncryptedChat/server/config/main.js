@@ -2,7 +2,7 @@ module.exports = {
   // Secret key for JWT signing and encryption
   secret: 'super secret passphrase',
   // Database connection information
-  database: '',
+  database: '****',
   // Setting port for server
   port: 3000,
   // Configuring Mailgun API for sending transactional email

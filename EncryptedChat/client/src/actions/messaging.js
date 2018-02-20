@@ -5,7 +5,7 @@ import io from 'socket.io-client';
 import { CHAT_ERROR, FETCH_CONVERSATIONS, FETCH_RECIPIENTS, START_CONVERSATION, SEND_REPLY, FETCH_SINGLE_CONVERSATION } from './types';
 
 // Connect to socket.io server
-export const socket = io.connect('http://localhost:3000');
+export const socket = io.connect('https://cryptic-basin-12739.herokuapp.com');
 
 
 //= ===============================
