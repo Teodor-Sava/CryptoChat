@@ -12,7 +12,7 @@ import {
 } from './types';
 
 // Connect to socket.io server
-export const socket = io.connect('https://cryptic-basin-12739.herokuapp.com');
+export const socket = io.connect('https://cryptic-basin-12739.herokuapp.com/api');
 
 
 //= ===============================

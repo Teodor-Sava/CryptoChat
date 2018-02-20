@@ -2,7 +2,7 @@ import axios from 'axios';
 import cookie from 'react-cookie';
 import { logoutUser } from './auth';
 import { STATIC_ERROR, FETCH_USER } from './types';
-export const API_URL = 'https://cryptic-basin-12739.herokuapp.com';
+export const API_URL = 'https://cryptic-basin-12739.herokuapp.com/api';
 export const CLIENT_ROOT_URL = 'https://thundering-advice.surge.sh';
 
 //= ===============================
